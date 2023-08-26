@@ -2,7 +2,7 @@
 ![Black Elegant Personal LinkedIn Banner (2)](https://github.com/IEEE-CS-GHRCE/Hacknow-Hackathon-Submission-2023/assets/139680254/dac49653-9ab8-42ea-bb6d-758d832b29e8)
 
 # Please Fork this Repository
-## Github Guidelins
+## Github Guidelines
 * Repository must be public. 
 * Must include readme file in it having summary of your project. 
 * Participants to write clear and descriptive Line of code. 
@@ -11,8 +11,9 @@
   
 
 # Format of README file
-* Team Name : [TEAM NAME]
-* Members Name : [Member 1] [Member 2] [Member 3] etc...
-* Description : [Description]
+* Team Name : TEAM AWAKE
+* Members Name : Kunal Parkhade Santosh Kakad Sahil Bagde
+* Description : We made BookBuddy:Personal Book Recommendation System
 * Please add Steps : How to Run the Program with Commands.
+* 
 
